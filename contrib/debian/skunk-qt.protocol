@@ -1,0 +1,11 @@
+[Protocol]
+exec=bonsaicoin-qt '%u'
+protocol=bonsaicoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

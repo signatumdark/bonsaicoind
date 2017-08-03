@@ -1,0 +1,2 @@
+debian/bin/bonsaicoind usr/bin
+src/bonsaicoind usr/lib/bonsaicoin
